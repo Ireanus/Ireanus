@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ireanus
-- 👀 I’m interested in Data Science, AI and Remote sensing, and their application in solve energy, geoscience, environmental and issues relating to climate change
+- 👋 Hi, I’m Ihomon Msugh-Aondo @Ireanus
+- 👀 I’m interested in Data Science, AI and Remote sensing, and their application in solving energy, geoscience, environmental and issues relating to climate change
 - 🌱 I’m currently on track to become an AI Engineer with @DataCamp, learning to create Neural networks, MLOps, LLMs etc.
 - 💞️ I’m looking to collaborate on ... Let me finish the AI course first
 - 📫 How to reach me ... in progress
